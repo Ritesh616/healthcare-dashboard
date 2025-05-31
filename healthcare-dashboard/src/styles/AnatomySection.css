@@ -1,0 +1,8 @@
+.anatomy-section {
+    position: relative;
+}
+
+.health-indicator {
+    position: absolute;
+    /* Positioning based on your design */
+}

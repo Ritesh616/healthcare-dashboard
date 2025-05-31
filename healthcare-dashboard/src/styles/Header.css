@@ -1,0 +1,12 @@
+.header {
+    background-color: #f0f4f8;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-icons {
+    display: flex;
+    align-items: center;
+}

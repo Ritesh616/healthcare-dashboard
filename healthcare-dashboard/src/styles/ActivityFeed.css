@@ -1,0 +1,13 @@
+.activity-feed {
+    margin-top: 20px;
+}
+
+.bar-chart {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bar {
+    width: 30px;
+    background-color: #4caf50;
+}
